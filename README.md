@@ -1,21 +1,10 @@
-<div align="center">
-
-# Hola, soy Javier Anthony 👋
-
-**Estudiante de Estadística e Informática | Aspirante a especialista en IA**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
-</div>
-
----
-
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ## 🧑‍💻 Sobre mí
+
+### Hola, soy Javier Anthony 👋
 
 Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agraria La Molina (UNALM), Lima - Perú. Me apasiona el análisis de datos y estoy orientando mi carrera hacia la **Inteligencia Artificial** y el **Machine Learning**.
 
@@ -24,13 +13,22 @@ Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agr
 Actualmente me encuentro en constante aprendizaje, desarrollando proyectos académicos y explorando nuevas tecnologías del ecosistema de datos.
 
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="300"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="280"/>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**Estudiante de Estadística e Informática | Aspirante a especialista en IA**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
 
 ---
 
