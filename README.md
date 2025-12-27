@@ -4,7 +4,7 @@
 
 **Estudiante de Estadística e Informática | Aspirante a especialista en IA**
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXEyZzg4N2Z2aGt3MHpzZHUyNW9rYWloMDlpanRud3Z3ODFqYmdzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LIsIXZEV6CUkVC69Cw/giphy.gif" width="200"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="200"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
