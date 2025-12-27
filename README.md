@@ -8,16 +8,10 @@ Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agr
 
 Actualmente me encuentro en constante aprendizaje, desarrollando proyectos académicos y explorando nuevas tecnologías del ecosistema de datos.
 
-<br clear="both"/>
-
-<div align="center">
-
-**Estudiante de Estadística e Informática | Aspirante a especialista en IA**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-</div>
+<br clear="both"/>
 
 ---
 
