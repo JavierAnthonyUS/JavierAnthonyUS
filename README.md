@@ -4,14 +4,16 @@
 
 **Estudiante de Estadística e Informática | Aspirante a especialista en IA**
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="200"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🧑‍💻 Sobre mí
 
@@ -20,6 +22,15 @@ Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agr
 🏆 Ganador de concurso de subvención para investigación científica.
 
 Actualmente me encuentro en constante aprendizaje, desarrollando proyectos académicos y explorando nuevas tecnologías del ecosistema de datos.
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,6 +45,7 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
