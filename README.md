@@ -4,6 +4,8 @@
 
 **Estudiante de Estadística e Informática | Aspirante a especialista en IA**
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXEyZzg4N2Z2aGt3MHpzZHUyNW9rYWloMDlpanRud3Z3ODFqYmdzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LIsIXZEV6CUkVC69Cw/giphy.gif" width="200"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
@@ -37,24 +39,14 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierAnthonyUS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAnthonyUS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
 ## 🎯 Áreas de Interés
 
-- 🤖 Inteligencia Artificial & Machine Learning
-- 📈 Análisis de Datos & Visualización
-- 📊 Estadística Aplicada
-- 🌐 Desarrollo Web
+```
+🤖 Inteligencia Artificial & Machine Learning
+📈 Análisis de Datos & Visualización  
+📊 Estadística Aplicada
+🌐 Desarrollo Web
+```
 
 ---
 
