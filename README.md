@@ -4,7 +4,9 @@
 
 Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agraria La Molina (UNALM), Lima - Perú. Me apasiona el análisis de datos y estoy orientando mi carrera hacia la **Inteligencia Artificial** y el **Machine Learning**.
 
-🏆 Ganador de concurso de subvención para investigación científica.
+🏆 Ganador de concurso de subvención para Semilleros de Investigación UNALM – XIV 2025.
+
+🔬 Miembro del **Semillero de Investigación de Preprocesamiento y Modelamiento de Datos (SIPREMO)**.
 
 Actualmente me encuentro en constante aprendizaje, desarrollando proyectos académicos y explorando nuevas tecnologías del ecosistema de datos.
 
