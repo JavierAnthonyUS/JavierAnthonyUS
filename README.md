@@ -1,3 +1,67 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5iMjBrODdjNXh1dmN2NWZ3MTZlajB3dDFoeXJiZ2tlcWF3N2QzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif" alt="Gif de bienvenida" width="100%">
-</p>
+<div align="center">
+
+# Hola, soy Javier Anthony 👋
+
+**Estudiante de Estadística e Informática | Aspirante a especialista en IA**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-anthony-uraco-silva-477334291)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agraria La Molina (UNALM), Lima - Perú. Me apasiona el análisis de datos y estoy orientando mi carrera hacia la **Inteligencia Artificial** y el **Machine Learning**.
+
+🏆 Ganador de concurso de subvención para investigación científica.
+
+Actualmente me encuentro en constante aprendizaje, desarrollando proyectos académicos y explorando nuevas tecnologías del ecosistema de datos.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierAnthonyUS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierAnthonyUS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+## 🎯 Áreas de Interés
+
+- 🤖 Inteligencia Artificial & Machine Learning
+- 📈 Análisis de Datos & Visualización
+- 📊 Estadística Aplicada
+- 🌐 Desarrollo Web
+
+---
+
+<div align="center">
+
+*"Aprendiendo cada día para construir el futuro con datos"*
+
+![Visitors](https://komarev.com/ghpvc/?username=JavierAnthonyUS&color=58A6FF&style=flat-square)
+
+</div>
