@@ -1,8 +1,6 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="top">
-
 ## Hola, soy Javier Anthony 👋
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="280"/>
 
 Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agraria La Molina (UNALM), Lima - Perú. Me apasiona el análisis de datos y estoy orientando mi carrera hacia la **Inteligencia Artificial** y el **Machine Learning**.
 
@@ -10,14 +8,7 @@ Soy estudiante de **Estadística e Informática** en la Universidad Nacional Agr
 
 Actualmente me encuentro en constante aprendizaje, desarrollando proyectos académicos y explorando nuevas tecnologías del ecosistema de datos.
 
-</td>
-<td width="40%" align="center" valign="top">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="280"/>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <div align="center">
 
