@@ -28,6 +28,7 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
@@ -40,8 +41,22 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 🤖 Inteligencia Artificial & Machine Learning
 📈 Análisis de Datos & Visualización  
 📊 Estadística Aplicada
+🔤 Text Mining & NLP
 🌐 Desarrollo Web
 ```
+
+---
+
+## 📂 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto | Descripción | Enlace |
+|:--------:|:-----------:|:------:|
+| 📊 **TextMining - Renacer Molinero** | Análisis de minería de texto y sentimientos al Plan de Gobierno del actual Rector de la UNALM (Lista 5) | [![GitHub](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/JavierAnthonyUS/TextMining-RenacerMolinero-UNALM) |
+| 🚀 **Dashboard Shiny - Compromiso Molinero** | Dashboard interactivo de Text Mining desplegado en ShinyApps.io | [![Shiny](https://img.shields.io/badge/Ver_Dashboard-276DC3?style=flat-square&logo=r&logoColor=white)](https://javieranthonyuracosilva.shinyapps.io/DashboardAnalisisCompromisoMolinero/) |
+
+</div>
 
 ---
 
