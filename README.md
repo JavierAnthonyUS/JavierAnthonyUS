@@ -29,6 +29,8 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![NiceGUI](https://img.shields.io/badge/NiceGUI-5C2D91?style=for-the-badge&logo=python&logoColor=white)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
@@ -42,6 +44,7 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 📈 Análisis de Datos & Visualización  
 📊 Estadística Aplicada
 🔤 Text Mining & NLP
+🕷️ Web Scraping & APIs
 🌐 Desarrollo Web
 ```
 
@@ -51,10 +54,24 @@ Actualmente me encuentro en constante aprendizaje, desarrollando proyectos acad�
 
 <div align="center">
 
-| Proyecto | Descripción | Enlace |
-|:--------:|:-----------:|:------:|
-| 📊 **TextMining - Renacer Molinero** | Análisis de minería de texto y sentimientos al Plan de Gobierno del actual Rector de la UNALM (Lista 5) | [![GitHub](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/JavierAnthonyUS/TextMining-RenacerMolinero-UNALM) |
-| 🚀 **Dashboard Shiny - Compromiso Molinero** | Dashboard interactivo de Text Mining desplegado en ShinyApps.io | [![Shiny](https://img.shields.io/badge/Ver_Dashboard-276DC3?style=flat-square&logo=r&logoColor=white)](https://javieranthonyuracosilva.shinyapps.io/DashboardAnalisisCompromisoMolinero/) |
+### 🔤 Text Mining & NLP
+
+| Proyecto | Descripción | Tech | Enlace |
+|:--------:|:-----------:|:----:|:------:|
+| 📊 **NLP - Plan Gobierno Nuevo Rector** | Análisis de Minería de Texto y Sentimientos al Plan de Gestión del Rector electo UNALM 2026-2031 | `R` `tidytext` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/JavierAnthonyUS/NLP-TextMining-PlanGobiernoDelNuevoRector-UNALM) |
+| 🚀 **Dashboard Compromiso Molinero** | Dashboard interactivo de Text Mining desplegado en ShinyApps.io | `R` `Shiny` | [![Shiny](https://img.shields.io/badge/Demo-276DC3?style=flat-square&logo=r&logoColor=white)](https://javieranthonyuracosilva.shinyapps.io/DashboardAnalisisCompromisoMolinero/) [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/JavierAnthonyUS/Dashboard-TextMining-CompromisoMolinero) |
+
+### 📊 Análisis de Datos & APIs
+
+| Proyecto | Descripción | Tech | Enlace |
+|:--------:|:-----------:|:----:|:------:|
+| 🌎 **World Bank API - Perú vs LATAM** | Análisis económico comparativo de Perú vs países de la región usando World Bank API, con enfoque en el impacto del COVID-19 (2015-2023) | `Python` `API` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/JavierAnthonyUS/worldbank-peru-latam-api) |
+
+### 🕷️ Web Scraping & Aplicaciones Web
+
+| Proyecto | Descripción | Tech | Enlace |
+|:--------:|:-----------:|:----:|:------:|
+| 💱 **TipoCambio.pe** | App web que compara tasas de cambio de múltiples fuentes en tiempo real y recomienda la mejor opción para cambiar divisas | `Selenium` `NiceGUI` `Regex` | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/JavierAnthonyUS/TipoCambio.pe) |
 
 </div>
 
